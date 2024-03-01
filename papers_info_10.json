@@ -1,0 +1,459 @@
+[
+    {
+        "title": "complexity and information systems research in the emerging digital world.",
+        "abstract": "Complexity is all around us in this increasingly digital world. Global digital infrastructure, social media, Internet of Things, robotic process automation, digital business platforms, algorithmic decision making, and other digitally enabled networks and ecosystems fuel complexity by fostering hyper-connections and mutual dependencies among human actors, technical artifacts, processes, organizations, and institutions. Complexity affects human agencies and experiences in all dimensions. Individuals and organizations turn to digitally enabled solutions to cope with the wicked problems arising out of digitalization. In the digital world, complexity and digital solutions present new opportunities and challenges for information systems (IS) research. The purpose of this special issue is to foster the development of new IS theories on the causes, dynamics, and consequences of complexity in increasing digital sociotechnical systems. In this essay, we discuss the key theories and methods of complexity science, and illustrate emerging new IS research challenges and opportunities in complex sociotechnical systems. We also provide an overview of the five articles included in the special issue. These articles illustrate how IS researchers build on theories and methods from complexity science to study wicked problems in the emerging digital world. They also illustrate how IS researchers leverage the uniqueness of the IS context to generate new insights to contribute back to complexity science. ",
+        "doi": "10.25300/MISQ/2020/13304",
+        "authors": [
+            {
+                "full_name": "Benbya, Hind",
+                "email": "h.benbya@montpellier-bs.com",
+                "affiliation": "Technology and Innovation Management, Montpellier Business School, 2300 Avenue des Moulins, Montpellier 34185 Cedex 4, FRANCE"
+            },
+            {
+                "full_name": "Ning Nan",
+                "email": "ning.nan@sauder.ubc.ca",
+                "affiliation": "Sauder School of Business, University of British Columbia, 2053 Main Mall, Vancouver V6T 1Z2 British Columbia, CANADA"
+            },
+            {
+                "full_name": "Tanriverdi, Hüseyin",
+                "email": "Huseyin.Tanriverdi@mccombs.utexas.edu",
+                "affiliation": "Red McCombs School of Business, The University of Texas at Austin, 1 University Station, B6500, CBA 5.208, Austin, TX 78712 U.S.A."
+            },
+            {
+                "full_name": "Youngjin Yoo",
+                "email": "yxy23@case.edu",
+                "affiliation": "Department of Design & Innovation, The Weatherhead School of Management, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, Ohio 44106-7235 U.S.A. | Warwick Business School, University of Warwick, Coventry CV4 7RL UNITED KINGDOM"
+            }
+        ],
+        "keywords": [
+            "chaos",
+            "coevolution",
+            "complexity",
+            "emergence",
+            "scalable dynamics digitalization",
+            "sociotechnical systems"
+        ],
+        "subjects": [
+            "information storage & retrieval systems",
+            "research",
+            "sociotechnical systems",
+            "digital technology",
+            "computational complexity"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "the dynamics of drift in digitized processes.",
+        "abstract": "This paper uses a simulation to build new theory about complexity and phase change in processes that are supported by digital technologies. We know that digitized processes can drift (change incrementally over time). We simulate this phenomenon by incrementally adding and removing edges from a network that represents the process. The simulation demonstrates that incremental change can lead to a state of self-organized criticality. As the process approaches this state, further incremental change can precipitate nonlinear bursts in process complexity and significant changes in process structure. Digital technology can be designed and used to influence the likelihood and severity of these transformative phase changes. For example, the simulation predicts that systems with adaptive programming are prone to phase changes, while systems with deterministic programming are not. We use the simulation to generate a set of theoretical propositions about the effects of digitization that will be testable in empirical research. ",
+        "doi": "10.25300/MISQ/2020/14458",
+        "authors": [
+            {
+                "full_name": "Pentland, Brian T.",
+                "email": "pentlan2@msu.edu",
+                "affiliation": "Eli Broad College of Business, Michigan State University, East Lansing, MI 48864 U.S.A."
+            },
+            {
+                "full_name": "Peng Liu",
+                "email": "peliu@fullerton.edu",
+                "affiliation": "Steven G. Mihaylo College of Business and Economics, California State University, Fullerton, Fullerton, CA 92834 U.S.A."
+            },
+            {
+                "full_name": "Kremser, Waldemar",
+                "email": "w.kremser@fm.ru.nl",
+                "affiliation": "Institute for Management Research, Radboud University Nijmegen 6500 HK Nijmegen, NETHERLANDS"
+            },
+            {
+                "full_name": "Hærem, Thorvald",
+                "email": "Thorvald.haerem@bi.no",
+                "affiliation": "BI Norwegian Business School, 0484 Oslo, NORWAY"
+            }
+        ],
+        "keywords": [
+            "complexity bursts",
+            "digitized processes",
+            "process complexity",
+            "self-organized criticality"
+        ],
+        "subjects": [
+            "digital technology",
+            "computational complexity",
+            "technological innovations",
+            "simulation methods & models",
+            "theory",
+            "self-organizing systems"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "taming complexity in search matching: two-sided recommender systems on digital platforms.",
+        "abstract": "We study digital multisided platforms as complex adaptive business systems (CABS) where multiple sides have different and evolving objectives, preferences, and constraints. CABS are characterized by irreducible uncertainty, which cannot be reduced by the traditional approaches of collecting and processing data. Irreducible uncertainty in the system gives rise to a complex search matching problem between agents and value enhancing transactions. This paper presents a recommender systems-based approach for taming the complexity by allowing agents to coevolve and learn in the system. We propose a novel two-sided recommender system framework, which considers emergence on both sides of the platform and adapts to the changing environment to influence agents. An agent-based simulation model is developed based on popular internet-based educational platforms to study this complex system and test our hypotheses. Our results show the value of a twosided recommender system to tame complex search matching in platforms. We discuss implications for information systems and complexity science research. ",
+        "doi": "10.25300/MISQ/2020/14424",
+        "authors": [
+            {
+                "full_name": "Malgonde, Onkar",
+                "email": "omalgonde@niu.edu",
+                "affiliation": "Operations Management and Information Systems, College of Business, Northern Illinois University, DeKalb, IL 60115 U.S.A."
+            },
+            {
+                "full_name": "He Zhang",
+                "email": "hezhang@usf.edu",
+                "affiliation": "Information Systems and Decision Sciences, Muma College of Business, University of South Florida, Tampa, FL 33620 U.S.A."
+            },
+            {
+                "full_name": "Padmanabhan, Balaji",
+                "email": "bp@usf.edu",
+                "affiliation": "Information Systems and Decision Sciences, Muma College of Business, University of South Florida, Tampa, FL 33620 U.S.A."
+            },
+            {
+                "full_name": "Limayem, Moez",
+                "email": "mlimayem@usf.edu",
+                "affiliation": "Information Systems and Decision Sciences, Muma College of Business, University of South Florida, Tampa, FL 33620 U.S.A."
+            }
+        ],
+        "keywords": [
+            "agent-based simulation modeling",
+            "complex adaptive business systems",
+            "complex search matching problem",
+            "digital platforms",
+            "recommender systems",
+            "two-sided recommender system"
+        ],
+        "subjects": [
+            "computational complexity",
+            "recommender systems",
+            "statistical matching",
+            "multiagent systems"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "organized complexity of digital business strategy: a configurational perspective.",
+        "abstract": "How should firms configure organizational capabilities to achieve competitive advantage in complex digital environments? To answer this question, we investigate parsimonious configurations for high firm performance in digital environments characterized by organized complexity. We adopt a configurational perspective accompanied by a fuzzy-set qualitative comparative analysis (fsQCA) to explicate complex nonlinear relationships among key digital and non-digital capabilities in the form of conjunction, equifinality, and asymmetry in producing the outcome. With this approach, we shift attention from individual capabilities to configurations of capabilities to develop a better understanding of the complex role of IT in the digital world. Our analyses, using a rare and unique dataset of 376 observations for organizations in healthcare, education, manufacturing, and service sectors in the United States, reveal three key findings. First, IT-enabled information analytics capability alone is neither necessary nor sufficient in any configuration for high performance; however, it is an important component of the configurations in which it plays multifaceted roles varying from an enabling role in some contexts, to no role or a counterproductive role in other contexts. Second, we document a few parsimonious configurations emergent from complex nonlinear interactions among six organizational capabilities. Interestingly, these configurations often have an isomorphic structure that produces both high financial performance and high customer performance simultaneously. Third, the structures of configurations for high performance differ from those of not-high performance, suggesting an asymmetric view of causality that underpins organizational performance. Together, the findings provide implications for further research on complexity theory in digital business strategy, and for managers to view and redesign digital business strategy as configurations of IT and organizational capabilities. ",
+        "doi": "10.25300/MISQ/2020/14477",
+        "authors": [
+            {
+                "full_name": "YoungKi Park",
+                "email": "ykpark@gwu.edu",
+                "affiliation": "Information Systems and Technology Management, School of Business, George Washington University, 2001 G Street NW, Washington, DC 20052 U.S.A."
+            },
+            {
+                "full_name": "Mithas, Sunil",
+                "email": "smithas@usf.edu",
+                "affiliation": "School of Information Systems & Management, Muma College of Business, University of South Florida, Tampa, FL 33620-5500 U.S.A."
+            }
+        ],
+        "keywords": [
+            "complex causality",
+            "complex system",
+            "complexity theory",
+            "configurational approach",
+            "digital business strategy",
+            "fsqca",
+            "fuzzyset qualitative comparative analysis",
+            "information analytics capabilities",
+            "organizational capabilities",
+            "organized complexity",
+            "parsimonious configurations"
+        ],
+        "subjects": [
+            "information storage & retrieval systems",
+            "digital technology",
+            "computational complexity",
+            "business planning",
+            "fuzzy sets"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "digitization and phase transitions in platform organizing logics: evidence from the process automation industry.",
+        "abstract": "This paper draws on complex adaptive systems (CAS) theory to explore the transformation of an analog automation product platform as it was infused with extensive and deepening digital capacities over a 40-year period. Our case demonstrates how the deepening digitization of components and functions drives complexity by connecting the platform to multiple social and technical settings and producing new interactions and information exchanges. The increased connectivity and dynamism invited unexpected and significant architectural and organizational shifts that moved the platform toward an ecosystem-centered organizing logic. CAS theory and its notion of constrained generating procedures (CGPs) are used to analyze how new connections and interactions produced a multilevel and nonlinear change in the platform organization. We offer two main contributions. First, we provide a novel empirical analysis of how product platform digitization leads to phase transitions and show the mediating role of three mechanisms in this process treated as CGPs: interaction rules, design control, and stimuli-response variety. Second, we demonstrate the multilevel and recursive nature of digitally driven growth in physical product platforms. ",
+        "doi": "10.25300/MISQ/2020/14520",
+        "authors": [
+            {
+                "full_name": "Sandberg, Johan",
+                "email": "johan.sandberg@umu.se",
+                "affiliation": "Swedish Center for Digital Innovation, Department of Informatics, Umeå University, 87 Umeå, SWEDEN"
+            },
+            {
+                "full_name": "Holmström, Jonny",
+                "email": "jonny.holmstrom@umu.se",
+                "affiliation": "Swedish Center for Digital Innovation, Department of Informatics, Umeå University, 87 Umeå, SWEDEN"
+            },
+            {
+                "full_name": "Lyytinen, Kalle",
+                "email": "kalle@case.edu",
+                "affiliation": "Iris S, Wolstein Professor, Information Design Studio, Weatherhead School of Management, Case Western Reserve University, Cleveland, Ohio 44106-7235"
+            }
+        ],
+        "keywords": [
+            "complexity",
+            "digital control systems",
+            "digital innovation",
+            "digital transformation",
+            "internet of things",
+            "phase transition",
+            "platform change",
+            "platform ecosystem",
+            "platform evolution",
+            "product platform"
+        ],
+        "subjects": [
+            "digital technology",
+            "computational complexity",
+            "technological innovations",
+            "systems theory",
+            "change",
+            "digitization"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "the evolution of information systems architecture: an agent-based simulation model.",
+        "abstract": "Understanding how information systems (IS) architecture evolves and what outcomes can be expected from the evolution of IS architecture presents a considerable challenge for both research and practice. The evolution of IS architecture is marked by management's efforts to keep local and short-term IS investments in line with enterprise-wide and long-term objectives, so they often employ coercive mechanisms to enforce enterprise-wide considerations on local actors. However, an organization is shaped by a multitude of heterogeneous local actors' actions that pursue their own, sometimes conflicting, goals, norms, and values. This study offers a theory-informed simulation model that explores how IS architecture evolves and with what outcomes in various types of organizations. The simulation model is informed by institutional theory to capture various types of organizations that are characterized by different combinations of coercive, normative, and mimetic pressures, and by complex adaptive systems theory to capture the emergent character of IS architecture's evolution. First, we outline the insights from simulation experiments. Then, building on the simulation model and theoretical insights, we discuss implications for both research and practice. ",
+        "doi": "10.25300/MISQ/2020/14494",
+        "authors": [
+            {
+                "full_name": "Haki, Kazem",
+                "email": "kazem.haki@unisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, Müller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND"
+            },
+            {
+                "full_name": "Beese, Jannis",
+                "email": "jannis.beese@sap.com",
+                "affiliation": "SAP AG, Bahnstrasse 1, 8274 Tägwerwilen, SWITZERLAND"
+            },
+            {
+                "full_name": "Aier, Stephan",
+                "email": "stephan.aier@uisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, Müller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND"
+            },
+            {
+                "full_name": "Winter, Robert",
+                "email": "robert.winter@unisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, Müller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND"
+            }
+        ],
+        "keywords": [
+            "agent-based modeling",
+            "complex adaptive systems",
+            "information systems architecture",
+            "institutional theory",
+            "simulation"
+        ],
+        "subjects": [
+            "information storage & retrieval systems",
+            "multiagent systems",
+            "intelligent agents (computer software)",
+            "business enterprises",
+            "institutional theory (sociology)"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "connecting systems, data, and people: a multidisciplinary research roadmap for chronic disease management.",
+        "abstract": "An introduction to a special section of the journal is presented, which is an overview of various themes in analytics and chronic disease management research, particularly concerning health information systems and technological innovations such as artificial intelligence (AI).",
+        "doi": "10.25300/MISQ/2020/14644",
+        "authors": [
+            {
+                "full_name": "Bardhan, Indranil",
+                "email": "indranil.bardhan@mccombs.utexas.edu",
+                "affiliation": "Department of Information, Risk and Operations Management, McCombs School of Business, The University of Texas at Austin, Austin, TX 78705 U.S.A."
+            },
+            {
+                "full_name": "Hsinchun Chen",
+                "email": "hsinchun@email.arizona.edu",
+                "affiliation": "MIS Department, Eller College of Management, The University of Arizona, Tucson, AZ 85721-0108 U.S.A."
+            },
+            {
+                "full_name": "Karahanna, Elena",
+                "email": "ekarah@uga.edu",
+                "affiliation": "Management Information Systems Department, Terry College of Business, University of Georgia, Athens, Georgia 30602"
+            }
+        ],
+        "keywords": [],
+        "subjects": [
+            "information storage & retrieval systems",
+            "artificial intelligence",
+            "chronic disease treatment"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "trajectories of repeated readmissions of chronic disease patients: risk stratification, profiling, and prediction.",
+        "abstract": "The problem of recurrent, unplanned readmissions, where some patients return shortly after discharge from the hospital and are readmitted for the same or a related condition, has become a challenge worldwide due to care quality, health outcomes, and financial concerns. Predicting frequent, preventable readmissions and understanding the contributing factors is a critical problem that is being widely studied. However, few studies have examined longitudinal risk stratification, profiling, and prediction of multi-morbid, heterogeneous patient populations. We examine how readmission risk may progress over multiple emergency department visits of chronic disease patients, their early stratification into distinct trajectories with related frequencies, and the relationship of these trajectories to patient characteristics. We further extend this analysis to investigate the impact of time-stable and time-varying covariates in predicting future readmission conditional on latent class membership. Results indicate that longitudinal risk stratification can enable early identification of specific patient groups following distinct trajectories based on their presentation for emergency care. Prediction models that incorporate latent classes perform well and demonstrate the promise of trajectory modeling methods combined with advanced prediction models for longitudinal risk assessment in addressing readmission challenges. The methodology and insights from this study are generalizable to other important Information Systems problems. ",
+        "doi": "10.25300/MISQ/2020/15101",
+        "authors": [
+            {
+                "full_name": "Ben-Assuli, Ofir",
+                "email": "ofir.benassuli@gmail.com",
+                "affiliation": "The Faculty of Business Administration, Ono Academic College,104 Zahal Street, Kiryat Ono 55000, ISRAEL"
+            },
+            {
+                "full_name": "Padman, Rema",
+                "email": "rpadman@cmu.edu",
+                "affiliation": "The H. John Heinz III College of Information Systems and Public Policy, Carnegie Mellon University, 4800 Forbes Avenue, Pittsburgh, PA 15213-3890 U.S.A."
+            }
+        ],
+        "keywords": [
+            "covariate latent class model",
+            "electronic health record",
+            "group-based trajectory model",
+            "hidden markov model",
+            "multiple chronic diseases",
+            "predictive analytics",
+            "repeated readmissions",
+            "risk stratification"
+        ],
+        "subjects": [
+            "information storage & retrieval systems",
+            "data analysis",
+            "electronic health records",
+            "medical care",
+            "chronic diseases",
+            "hidden markov models",
+            "prediction (logic)"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "chronic disease management: how it and analytics create healthcare value through the temporal displacement of care.",
+        "abstract": "The treatment of chronic diseases consumes 86% of U.S. healthcare costs. While healthcare organizations have traditionally focused on treating the complications of chronic diseases, advances in information technology (IT) and analytics can help clinicians and patients manage and slow the progression of chronic diseases to result in higher quality of life for patients and lower healthcare costs. We build on prior research to introduce the notion of temporal displacement of care (TDC), in which IT and analytics create healthcare value by displacing the time at which providers and patients make interventions to improve healthcare outcomes and reduce costs. We propose that healthcare value is created by strategic actions taken at specific points-in-time during the treatment process. Our theoretical development identifies TDC mechanisms through which IT and analytics displace later high cost interventions in favor of earlier preventative procedures. We test our hypotheses using four years of data on 45,000 cardio-metabolic patients from the U.S. state of Vermont, which implemented a Patient-Centered Medical Home (PCMH) program. Our study includes four cohorts with increasing levels of IT and analytics use: (1) non-PCMH practices, (2) PCMH practices with basic IT systems installed, (3) practices that completed data quality sprints (DQS) to increase use of IT systems, and (4) practices that use analytics through the Vermont Healthcare Information Exchange (VHIE). Our results provide insights into how TDC effects develop over time. In Year 1 after implementation, the DQS cohort demonstrates a marked increase in the use of preventative procedures such as eye exams and neuropathy screenings, the increase becomes more pronounced in Years 2 and 3, and the increase is even greater for the VHIE cohort. As the use of preventative procedures increases, emergency department utilization decreases, with a more pronounced decrease for the VHIE cohort than the DQS cohort. By Year 2, the DQS and VHIE cohorts experience a decrease in total healthcare costs, with a greater decrease for the VHIE cohort than the DQS cohort. By Year 3, the healthcare outcomes indicator of Hemoglobin A1c (HbA1c) level is statistically significantly lower, with a greater decrease for the VHIE cohort than the DQS cohort. The increased use of low-intervention healthcare treatments earlier in the process leads to a decrease in overall healthcare costs, which then leads to an improvement in healthcare indicators. ",
+        "doi": "10.25300/MISQ/2020/15085",
+        "authors": [
+            {
+                "full_name": "Thompson, Steve",
+                "email": "sthomps3@richmond.edu",
+                "affiliation": "Robins School of Business, University of Richmond, 102 UR Drive, Richmond, VA 23173 U.S.A."
+            },
+            {
+                "full_name": "Whitaker, Jonathan",
+                "email": "jwhitaker@richmond.edu",
+                "affiliation": "Management Department, Robins School of Business, University of Richmond, 1 Gateway Road, Richmond, Virginia 23173, USA"
+            },
+            {
+                "full_name": "Kohli, Rajiv",
+                "email": "rajiv.kohli@mason.wm.edu",
+                "affiliation": "Raymond A. Mason School of Business, William & Mary, 101 Ukrop Way, Williamsburg, VA 23185 U.S.A."
+            },
+            {
+                "full_name": "Jones, Craig",
+                "email": "craig.jones@capitolhealthdc.com",
+                "affiliation": "Capitol Health Associates, 28 Braeburn Street, South Burlington, VT 05403 U.S.A."
+            }
+        ],
+        "keywords": [
+            "analytics",
+            "care",
+            "chronic",
+            "cost",
+            "disease",
+            "displacement",
+            "healthcare",
+            "it",
+            "outcomes",
+            "temporal"
+        ],
+        "subjects": [
+            "chronic disease treatment",
+            "data analysis",
+            "information technology",
+            "medical care costs",
+            "health outcome assessment"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    },
+    {
+        "title": "go to youtube and call me in the morning: use of social media for chronic conditions.",
+        "abstract": "Video sharing social media platforms, such as YouTube, offer an effective way to deliver medical information. Few studies have identified evidence-backed digital therapeutics with technology-enabled interventions to improve the ease with which patients can retrieve medical information to manage chronic conditions. We propose an interdisciplinary lens that synthesizes deep learning methods with themes emphasized in Information Systems and Healthcare Informatics research to examine user engagement with encoded medical information in YouTube videos. We first use a bidirectional long short-term memory method to identify medical terms in videos and then classify videos based on whether they encode a high or low degree of medical information. We then employ principal component analysis on aggregate video data to discover three dimensions of collective engagement with videos: nonengagement, selective attention-driven engagement, and sustained attention-driven engagement. Videos with low medical information result in nonengagement; at the same time, videos with a greater amount of encoded medical information struggle to maintain sustained attention-driven engagement. Our study provides healthcare practitioners and policymakers with a nuanced understanding of how users engage with medical information in video format. Our research also contributes to enhancing current public health practices by promoting normative guidelines for educational video content enabling management of chronic conditions. ",
+        "doi": "10.25300/MISQ/2020/15107",
+        "authors": [
+            {
+                "full_name": "Padman, Rema",
+                "email": "rpadman@cmu.edu",
+                "affiliation": "The H. John Heinz III College of Information Systems and Public Policy, Carnegie Mellon University, 4800 Forbes Avenue, Pittsburgh, PA 15213-3890 U.S.A."
+            },
+            {
+                "full_name": "Xiao Liu",
+                "email": "xiao.liu.10@asu.edu",
+                "affiliation": "Department of Information Systems, W. P. Carey School of Business, Arizona State University, Tempe, AZ 85287 U.S.A."
+            },
+            {
+                "full_name": "Bin Zhang",
+                "email": "binzhang@arizona.edu",
+                "affiliation": "Eller College of Management, University of Arizona, Tucson, AZ 85721-0108 U.S.A."
+            },
+            {
+                "full_name": "Susarla, Anjana",
+                "email": "asusarla@msu.edu",
+                "affiliation": "Department of Accounting and Information Systems, Eli Broad College of Business, Michigan State University, East Lansing, Michigan 48824"
+            }
+        ],
+        "keywords": [
+            "bidirectional long short-term memory (blstm)",
+            "chronic diseases",
+            "deep learning",
+            "digital therapeutics",
+            "healthcare informatics",
+            "patient self-care",
+            "visual social media"
+        ],
+        "subjects": [
+            "chronic disease treatment",
+            "information science",
+            "social media",
+            "health self-care",
+            "deep learning"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    }
+]
