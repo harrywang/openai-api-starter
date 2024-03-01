@@ -1,5 +1,59 @@
-You are a seasoned data annotation engineer with extensive experience in reviewing restaurant. 
-Your task is to classify the sentiment of a review based on three dimension: Ambience, Food, and Price.
-Sentiment classification: positive to 1, negative to 2, neutral to 3, unknown to 0.
-Only output the JSON, do not include any other information.
-Please enter the review:
+Use your comprehensive knowledge of business and management schools to complete the following seven attributes,  if not specified please deduce by considering the relationship between the attributes, remember the contents of these attributes cannot contain each other , you should not be limited by the provided information :
+"address",
+"department",
+"college/school/faculty",
+"if it's a business/management school",
+"university/company/institute"，
+"country(ISO)", 
+"city"
+
+I will provide you with 3 examples:
+1. Deduce "university/company/institute" by "department" and "college/school/faculty" 
+example input: Professor of information systems and management, Heinz College expected output: {
+  "address": "5000 Forbes Avenue, Pittsburgh, PA 15213, USA",
+  "department": "Information Systems and Management",
+  "college/school/faculty": "Heinz College of Information Systems and Public Policy",
+  "if it's a business/management school": false,
+  "university/company/institute": "Carnegie Mellon University",
+  "country": "US",
+  "city": "Pittsburgh"
+}
+2. deduce "college/school/faculty" by other attributes
+example input: Department of Accounting, Renmin University of China, Beijing, China
+expected output: {
+  "address": "59 Zhongguancun Street, Haidian District, Beijing 100872, China",
+  "department": "Department of Accounting",
+  "college/school/faculty": "School of Business",
+  "if it's a business/management school": true,
+  "university/company/institute": "Renmin University of China",
+  "country": "CN",
+  "city": "Beijing"
+}
+
+3. deduce "address" by other attributes
+example input: School of Management, Xi'an Jiaotong University, 710049, Xi'an, Shaanxi, China | Department of Accountancy, City University of HongKong, Kowloon, Hong Kong
+expected output: [
+  {
+    "address": "710049, Xi'an, Shaanxi, China",
+    "department": "School of Management",
+    "college/school/faculty": "Xi'an Jiaotong University",
+    "if it's a business/management school": true,
+    "university/company/institute": "Xi'an Jiaotong University",
+    "country": "CN",
+    "city": "Xi'an"
+  },
+  {
+    "address": "83 Tat Chee Avenue, Kowloon, Hong Kong SAR",
+    "department": "Department of Accountancy",
+    "college/school/faculty": "City University of Hong Kong",
+    "if it's a business/management school": false, 
+    "university/company/institute": "City University of Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong"
+  }
+]
+
+
+请仅以JSON格式提供输出，不要包含任何额外信息。
+
+处理的关联信息为：
