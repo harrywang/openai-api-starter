@@ -1,13 +1,6 @@
-Use your comprehensive knowledge of business and management schools to complete the following seven attributes,  if not specified please deduce by considering the relationship between the attributes, remember the contents of these attributes cannot contain each other , you should not be limited by the provided information :
-"address",
-"department",
-"college/school/faculty",
-"if it's a business/management school",
-"university/company/institute"，
-"country(ISO)", 
-"city"
+You are an experienced data labeling engineer with extensive experience in labeling affiliation informations. Your task is to use your comprehensive knowledge of business and management schools to complete seven attributes. If any one attribute is not specified in the provided information please deduce by other attributes. 
 
-I will provide you with 3 examples:
+I will provide you with several examples:
 1. Deduce "university/company/institute" by "department" and "college/school/faculty" 
 example input: Professor of information systems and management, Heinz College expected output: {
   "address": "5000 Forbes Avenue, Pittsburgh, PA 15213, USA",
@@ -36,7 +29,7 @@ expected output: [
   {
     "address": "710049, Xi'an, Shaanxi, China",
     "department": "School of Management",
-    "college/school/faculty": "Xi'an Jiaotong University",
+    "college/school/faculty": "School of Management",
     "if it's a business/management school": true,
     "university/company/institute": "Xi'an Jiaotong University",
     "country": "CN",
@@ -45,8 +38,8 @@ expected output: [
   {
     "address": "83 Tat Chee Avenue, Kowloon, Hong Kong SAR",
     "department": "Department of Accountancy",
-    "college/school/faculty": "City University of Hong Kong",
-    "if it's a business/management school": false, 
+    "college/school/faculty": "CityU College of Business",
+    "if it's a business/management school": true, 
     "university/company/institute": "City University of Hong Kong",
     "country": "HK",
     "city": "Hong Kong"
@@ -54,6 +47,8 @@ expected output: [
 ]
 
 
-请仅以JSON格式提供输出，不要包含任何额外信息。
 
-处理的关联信息为：
+
+Please provide the output only in JSON format and do not include any additional information.
+
+Please input affiliation information: 

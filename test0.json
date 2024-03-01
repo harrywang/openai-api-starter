@@ -1,0 +1,77 @@
+[
+    {
+        "title": "the evolution of information systems architecture: an agent-based simulation model.",
+        "abstract": "Understanding how information systems (IS) architecture evolves and what outcomes can be expected from the evolution of IS architecture presents a considerable challenge for both research and practice. The evolution of IS architecture is marked by management's efforts to keep local and short-term IS investments in line with enterprise-wide and long-term objectives, so they often employ coercive mechanisms to enforce enterprise-wide considerations on local actors. However, an organization is shaped by a multitude of heterogeneous local actors' actions that pursue their own, sometimes conflicting, goals, norms, and values. This study offers a theory-informed simulation model that explores how IS architecture evolves and with what outcomes in various types of organizations. The simulation model is informed by institutional theory to capture various types of organizations that are characterized by different combinations of coercive, normative, and mimetic pressures, and by complex adaptive systems theory to capture the emergent character of IS architecture's evolution. First, we outline the insights from simulation experiments. Then, building on the simulation model and theoretical insights, we discuss implications for both research and practice. ",
+        "doi": "10.25300/MISQ/2020/14494",
+        "authors": [
+            {
+                "full_name": "Haki, Kazem",
+                "email": "kazem.haki@unisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND",
+                "address": "M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, Switzerland",
+                "department": "Institute for Information Management",
+                "college/school/faculty": "School of Management",
+                "if it's a business/management school": true,
+                "university/company/institute": "University of St. Gallen",
+                "country": "CH",
+                "city": "St. Gallen"
+            },
+            {
+                "full_name": "Beese, Jannis",
+                "email": "jannis.beese@sap.com",
+                "affiliation": "SAP AG, Bahnstrasse 1, 8274 T\u00e4gwerwilen, SWITZERLAND",
+                "address": "Bahnstrasse 1, 8274 T\u00e4gwerwilen, Switzerland",
+                "department": null,
+                "college/school/faculty": null,
+                "if it's a business/management school": false,
+                "university/company/institute": "SAP AG",
+                "country": "CH",
+                "city": "T\u00e4gwerwilen"
+            },
+            {
+                "full_name": "Aier, Stephan",
+                "email": "stephan.aier@uisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND",
+                "address": "M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, Switzerland",
+                "department": "Institute for Information Management",
+                "college/school/faculty": "School of Management",
+                "if it's a business/management school": true,
+                "university/company/institute": "University of St. Gallen",
+                "country": "CH",
+                "city": "St. Gallen"
+            },
+            {
+                "full_name": "Winter, Robert",
+                "email": "robert.winter@unisg.ch",
+                "affiliation": "Institute for Information Management, University of St. Gallen, M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, SWITZERLAND",
+                "address": "M\u00fcller-Friedberg-Strasse 8, 9000 St. Gallen, Switzerland",
+                "department": "Institute for Information Management",
+                "college/school/faculty": "School of Management",
+                "if it's a business/management school": true,
+                "university/company/institute": "University of St. Gallen",
+                "country": "CH",
+                "city": "St. Gallen"
+            }
+        ],
+        "keywords": [
+            "agent-based modeling",
+            "complex adaptive systems",
+            "information systems architecture",
+            "institutional theory",
+            "simulation"
+        ],
+        "subjects": [
+            "information storage & retrieval systems",
+            "multiagent systems",
+            "intelligent agents (computer software)",
+            "business enterprises",
+            "institutional theory (sociology)"
+        ],
+        "journal": {
+            "title": "MIS Quarterly",
+            "volumn": "44",
+            "issue": "1",
+            "year": "2020"
+        }
+    }
+]
